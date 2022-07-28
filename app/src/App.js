@@ -1,7 +1,7 @@
-import AboutMe from './pages/AboutMe';
+import Certifications from './pages/Certifications';
 
 function App() {
-  return <AboutMe />;
+  return <Certifications />;
 }
 
 export default App;
