@@ -1,7 +1,7 @@
-import Certifications from './pages/Certifications';
+import Projects from './pages/Projects';
 
 function App() {
-  return <Certifications />;
+  return <Projects />;
 }
 
 export default App;
