@@ -33,6 +33,12 @@ const AboutMe = () => {
               hic accusantium id sunt ut? Sequi eum tempore consequuntur aut
               quos.
             </li>
+            <li>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et quasi
+              ratione impedit, nostrum veniam dicta pariatur nobis libero quod,
+              hic accusantium id sunt ut? Sequi eum tempore consequuntur aut
+              quos.
+            </li>
           </ul>
         </div>
       </div>
