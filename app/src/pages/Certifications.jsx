@@ -9,7 +9,10 @@ const Certifications = () => {
         <h1 className="text-white font-bold">Certificações</h1>
       </div>
       <div className="flex flex-wrap gap-2 w-96   ">
-        <img src={Trybe} />
+        <img
+          src={Trybe}
+          className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
+        />
         <div className="flex flex-col  ">
           <p className="">Fundamentos do </p>
           <p className="text-sm font-light">Desenvolvimento Web</p>
