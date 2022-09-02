@@ -3,16 +3,15 @@ const Header = () => {
     <header>
       <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
-          <a href="https://images.gamebanana.com/img/ico/sprays/5ffcd5b6446cc.gif" className="flex items-center">
-            <img
-              src="https://images.gamebanana.com/img/ico/sprays/5ffcd5b6446cc.gif"
-              className="mr-3 h-6 sm:h-9"
-              alt="Flowbite Logo"
-            />
-            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-              Vitoria
-            </span>
-          </a>
+
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+            className="mr-3 h-6 sm:h-9"
+            alt="Flowbite Logo"
+          />
+          <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
+         Vitória Holanda
+          </span>
           <div className="flex items-center lg:order-2">
             <a
               href="#"
