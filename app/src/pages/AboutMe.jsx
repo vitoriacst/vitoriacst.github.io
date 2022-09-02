@@ -6,7 +6,7 @@ const AboutMe = () => {
         <div className="ml-8 ">
           <h1 className="text-white font-bold mb-4">SOBRE MIM</h1>
           <p className="text-white font-light flex flex-col text-start gap-4">
-            Olá, Me chamo Vitória Holanda,tenho 19 anos e sou uma sonhadora e aspirante a desenvolvedora FullStack! 
+            Olá, Me chamo Vitória Holanda,tenho 19 anos e sou uma sonhadora e aspirante a desenvolvedora FullStack!
             <span>
               Tenho pretensões altas para carreira, mas sempre com muito esforço.
             </span>
@@ -80,6 +80,33 @@ const AboutMe = () => {
             <div className="w-16 bg-red-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">Testes unitarios</span>
+              <p className="leading-tight">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-gray-500"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Flexbox</span>
+              <p className="leading-tight">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-purple-500"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Redux e context Api</span>
+              <p className="leading-tight">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-black"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Docker, Swarm e Kubernetes</span>
               <p className="leading-tight">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               </p>

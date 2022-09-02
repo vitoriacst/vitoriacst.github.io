@@ -7,7 +7,7 @@ import Projects from './pages/Projects';
 
 function App() {
   return (
-    <div>
+    <div className='flex flex-col  gap-1-'>
       <Header />
       <HomePage />
       <AboutMe />
