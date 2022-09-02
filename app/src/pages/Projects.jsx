@@ -1,7 +1,7 @@
 const Projects = () => {
   return (
     <div className="flex flex-col items-center justify-center p-4">
-      <h1 className="text-white font-bold mb-10">Meus Projetos</h1>
+      <h1 className="text-white font-bold mb-10">MEUS PROJETOS</h1>
       <div className="flex flex-col gap-10">
         <a
           href="#"
