@@ -13,6 +13,8 @@ const AboutMe = () => {
           </p>
         </div>
         <div className="flex flex-col mt-5">
+        <h1 className="text-white font-bold mb-4">MINHAS SKILLS</h1>
+
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-yellow-300"></div>
             <div className="w-auto text-grey-darker items-center p-4">
