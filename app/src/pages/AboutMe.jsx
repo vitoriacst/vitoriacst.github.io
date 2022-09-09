@@ -19,99 +19,84 @@ const AboutMe = () => {
             <div className="w-16 bg-yellow-300"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">JavaScript</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-yellow-500"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Java</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-blue-300"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">TypeScript</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-pink-400"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">POO</span>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-blue-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">React Js</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-orange-400"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">HTML 5</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-blue-800"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">CSS 3</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-blue-700"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">TAILWIND</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-green-800"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">Consumo de API's</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-pink-300"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">Sass e Scss</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-red-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">Testes unitarios</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-gray-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">Flexbox</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-purple-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">Redux e context Api</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-black"></div>
             <div className="w-auto text-grey-darker items-center p-4">
               <span className="text-lg font-bold pb-4">Docker, Swarm e Kubernetes</span>
-              <p className="leading-tight">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              </p>
             </div>
           </div>
         </div>
