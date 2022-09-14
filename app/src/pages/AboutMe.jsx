@@ -12,9 +12,9 @@ const AboutMe = () => {
             </span>
           </p>
         </div>
-        <div className="flex flex-col mt-5">
-        <h1 className="text-white font-bold mb-4">MINHAS SKILLS</h1>
-
+        <h1 className="text-white font-bold mt-12 mb-12">MINHAS SKILLS</h1>
+        <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center lg:gap-20">
+        <div className="flex justify-between flex-col">
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-yellow-300"></div>
             <div className="w-auto text-grey-darker items-center p-4">
@@ -22,9 +22,9 @@ const AboutMe = () => {
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
-            <div className="w-16 bg-yellow-500"></div>
+            <div className="w-16 bg-purple-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
-              <span className="text-lg font-bold pb-4">Java</span>
+              <span className="text-lg font-bold pb-4">Redux e context Api</span>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
@@ -36,7 +36,7 @@ const AboutMe = () => {
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-pink-400"></div>
             <div className="w-auto text-grey-darker items-center p-4">
-              <span className="text-lg font-bold pb-4">POO</span>
+              <span className="text-lg font-bold pb-4">FlexBox</span>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
@@ -63,6 +63,8 @@ const AboutMe = () => {
               <span className="text-lg font-bold pb-4">TAILWIND</span>
             </div>
           </div>
+
+
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-green-800"></div>
             <div className="w-auto text-grey-darker items-center p-4">
@@ -81,16 +83,18 @@ const AboutMe = () => {
               <span className="text-lg font-bold pb-4">Testes unitarios</span>
             </div>
           </div>
+          </div>
+          <div className="flex justify-between flex-col">
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
             <div className="w-16 bg-gray-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
-              <span className="text-lg font-bold pb-4">Flexbox</span>
+              <span className="text-lg font-bold pb-4">POO</span>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
-            <div className="w-16 bg-purple-500"></div>
+            <div className="w-16 bg-yellow-500"></div>
             <div className="w-auto text-grey-darker items-center p-4">
-              <span className="text-lg font-bold pb-4">Redux e context Api</span>
+              <span className="text-lg font-bold pb-4">Java</span>
             </div>
           </div>
           <div className="flex bg-white max-w-sm mb-4 rounded-sm">
@@ -99,8 +103,57 @@ const AboutMe = () => {
               <span className="text-lg font-bold pb-4">Docker, Swarm e Kubernetes</span>
             </div>
           </div>
-        </div>
-      </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-green-400"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Node.js</span>
+            </div>
+          </div>
+          <div className="flex bg-white mb-4 rounded-sm">
+            <div className="w-16 bg-red-300"></div>
+            <div className="text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4"> Express.js</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-red-400"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">SQL</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-green-500"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">MongoDb</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-blue-900"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Chai,Sinon e Mocha</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-gray-600"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">DotEnv</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-yellow-400"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Joi</span>
+            </div>
+          </div>
+          <div className="flex bg-white max-w-sm mb-4 rounded-sm">
+            <div className="w-16 bg-orange-600"></div>
+            <div className="w-auto text-grey-darker items-center p-4">
+              <span className="text-lg font-bold pb-4">Mysql</span>
+            </div>
+          </div>
+          </div>
+          </div>
+          </div>
     </>
   );
 };
