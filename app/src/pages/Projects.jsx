@@ -18,7 +18,7 @@ const Projects = () => {
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={trybeTunes}
               alt=""
             />
@@ -59,7 +59,7 @@ const Projects = () => {
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={recipeApp}
               alt=""
             />
@@ -102,11 +102,11 @@ const Projects = () => {
             </div>
           </a>
           <a
-            href="#"
+            href="https://github.com/vitoriacst/Todo-List-TypeScript-"
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={todoList}
               alt=""
             />
@@ -150,7 +150,7 @@ const Projects = () => {
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={wallet}
               alt=""
             />
@@ -185,11 +185,11 @@ const Projects = () => {
             </div>
           </a>
           <a
-            href="#"
+            href="https://github.com/vitoriacst/Game_Store"
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={gameStore}
               alt=""
             />
@@ -198,10 +198,7 @@ const Projects = () => {
                 Game Store
               </h5>
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo
-                omnis laudantium mollitia reiciendis ipsam, fugit amet alias eum
-                culpa autem repellat maiores id ipsum. Veniam deserunt ipsam
-                ipsa eligendi est.
+               Projeto desenvolvido durante o curso de Sass e Scss na udemy, tendo a sua interface voltada para uma loja de periféricos gamers.
               </p>
               <div class="px-6 pt-4 pb-2">
                 <span class="inline-block bg-orange-400 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
@@ -221,7 +218,7 @@ const Projects = () => {
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={Tfc}
               alt=""
             />
@@ -267,7 +264,7 @@ const Projects = () => {
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={blogsApi}
               alt=""
             />
@@ -311,7 +308,7 @@ const Projects = () => {
             className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <img
-              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+              className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg p-2"
               src={smithStore}
               alt=""
             />
