@@ -94,7 +94,7 @@ const AboutMe = () => {
             <div className="flex bg-white max-w-sm mb-4 rounded-sm">
               <div className="w-16  bg-blue-300"></div>
               <div className="w-auto text-grey-darker items-center p-4">
-                <span className="text-lg font-bold pb-4">Testes unitarios</span>
+                <span className="text-lg font-bold pb-4">Testes unitários</span>
               </div>
             </div>
           </div>
